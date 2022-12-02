@@ -1,0 +1,23 @@
+.Auctions {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    background-image: url("https://plus.unsplash.com/premium_photo-1658506826316-f21670ec809e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=843&q=80");
+}
+#bid{
+    background-image: url("https://plus.unsplash.com/premium_photo-1658506826316-f21670ec809e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=843&q=80");
+
+ background-size: 100%;
+}
+.Container {
+    margin:auto 0;
+    padding: 30px;
+    text-align: center;
+}
+
+.subheader{
+    text-align: right;
+    display: inline;
+}

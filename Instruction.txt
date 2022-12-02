@@ -1,0 +1,23 @@
+In powershell/cmd
+
+Step1:
+got to or cd  bidding
+
+Step 2: 
+pip install -r requirements.txt
+ and run: python manage.py runerver
+
+Step 3: go to frontend directory 
+cd frontend
+
+Step 4:
+ npm install react-scripts --save
+ and run: npm start
+
+Give the Informations:
+Username: admin
+Password: admin
+
+
+
+
